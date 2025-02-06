@@ -35,3 +35,7 @@ To test the application, you can download a sample dataset:
 |------------|--------------------------|
 | **→ / ←**  | Next/Previous trial    |
 | **Space**  | Toggle Accept/Reject     |
+
+## Acknowledgments
+This repository was originally developed as part of [The Pyott Lab](https://github.com/thepyottlab/ASR-Inspect).  
+Cloned and maintained here for personal portfolio.
